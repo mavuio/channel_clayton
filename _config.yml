@@ -3,13 +3,14 @@ url: https://channel-clayton.uni-ak.ac.at/podcast
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
 download_url: "https://channel-clayton.uni-ak.ac.at/podcast/episodes"
-subtitle: 
-description: Wissenschaftliche Abschlussarbeiten des Instituts für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung
+subtitle:  Wissenschaftliche Abschlussarbeiten des Instituts für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung
+description: "Channel Clayton stellt heuer aufs Mithören um: In verschiedenen Episoden des Podcasts berichten Autor*innen über die Thesen und die Ergebnisse ihrer wissenschaftlichen Abschlussarbeiten, vorwiegend des Instituts für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung."
+
 author: Instituts für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung
 
 
 ### author_url: This is the URL of a site owned by the author (see https://jsonfeed.org/version/1)
-author_url: "https://channel-clayton.uni-ak.ac.at/"
+author_url: "https://channel-clayton.uni-ak.ac.at/" 
 
 email: 
 keywords: [octopod, podcast, kunstvermittlung]
