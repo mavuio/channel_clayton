@@ -16,7 +16,7 @@
     /**
      * Episode related Information
      */
-    title: "Episode 01a - View-Adina Bar-On - Clelia Baumgartner",
+    title: "Episode 01B - View-Adina Bar-On - Clelia Baumgartner",
     subtitle: "Ein Einführungskurs für Informatiker vermittelt unterschiedliche Denkweisen die gesellschaftliche Bedeutung des Fachs zu vermitteln",
     // ISO 8601 DateTime format, this is capable of adding a time offset, see https://en.wikipedia.org/wiki/ISO_8601
     publicationDate: "2020-06-10T11:00:44+01:00",
