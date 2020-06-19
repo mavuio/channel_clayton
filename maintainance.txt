@@ -1,0 +1,11 @@
+for i in {01..14}
+do
+   echo "Create episode $i: "
+   file="2020-06-19-episode$i.md"
+   cmd="cp 2020-07-22-episode00.md $file"
+   eval $cmd
+   cmd="rpl 00 $i $file"
+   echo $cmd
+   eval $cmd
+
+done

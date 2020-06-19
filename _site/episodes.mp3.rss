@@ -1,0 +1,89 @@
+<?xml version="1.0"
+      encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:bitlove="http://bitlove.org"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:psc="http://podlove.org/simple-chapters"
+     version="2.0">
+
+  <channel>
+    <title>Channel Clayton—Mithören</title>
+    <link>https://channel-clayton.uni-ak.ac.at/podcast</link>
+    <atom:link href="https://channel-clayton.uni-ak.ac.at/podcast/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://channel-clayton.uni-ak.ac.at/podcast/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://channel-clayton.uni-ak.ac.at/podcast/episodes.mp3.rss" rel="last" type="application/rss+xml" />
+    
+    
+
+    <atom:link rel="alternate" href="https://channel-clayton.uni-ak.ac.at/podcast/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://channel-clayton.uni-ak.ac.at/podcast/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+    <description>Channel Clayton stellt heuer aufs Mithören um: In verschiedenen Episoden des Podcasts berichten Autor*innen über die Thesen und die Ergebnisse ihrer wissenschaftlichen Abschlussarbeiten, vorwiegend des Instituts für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung.
+</description>
+    <lastBuildDate>Fri, 19 Jun 2020 08:03:30 +0200</lastBuildDate>
+    <language>de</language>
+    <generator>Jekyll-Octopod 0.9.23</generator>
+
+    <itunes:summary>Channel Clayton stellt heuer aufs Mithören um: In verschiedenen Episoden des Podcasts berichten Autor*innen über die Thesen und die Ergebnisse ihrer wissenschaftlichen Abschlussarbeiten, vorwiegend des Instituts für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung.
+</itunes:summary>
+    <itunes:author>Instituts für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://channel-clayton.uni-ak.ac.at/podcast/img/logo-itunes.jpg" />
+    <itunes:owner>
+      <itunes:name>Instituts für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung</itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <managingEditor> (Instituts für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung)</managingEditor>
+    <copyright>CC BY 4.0</copyright>
+    <itunes:subtitle>Wissenschaftliche Abschlussarbeiten des Instituts für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung</itunes:subtitle>
+    <itunes:keywords>octopod, podcast, kunstvermittlung</itunes:keywords>
+    <image>
+      <title>Channel Clayton—Mithören</title>
+      <url>https://channel-clayton.uni-ak.ac.at/podcast/img/logo-itunes.jpg</url>
+      <link>https://channel-clayton.uni-ak.ac.at/podcast</link>
+    </image>
+    
+    <itunes:category text="Arts" />
+    <item>
+            <title>Episode 01 - Janosch und die Liebe - Nicole Wagner</title>
+            <link>https://channel-clayton.uni-ak.ac.at/podcast/2020/06/12/episode01.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://channel-clayton.uni-ak.ac.at/podcast/players/episode01"/>
+            <comments>https://channel-clayton.uni-ak.ac.at/podcast/2020/06/12/episode01.html#disqus_thread</comments>
+            <pubDate>Fri, 12 Jun 2020 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://channel-clayton.uni-ak.ac.at/podcast/2020/06/12/episode01.html</guid>
+            <description><![CDATA[
+
+<p><em>Eine Untersuchung über Ausdrucksformen der Liebe<br />
+in Illustrationen zu den Kinder- und den Erwachsenenbüchern Horst Eckerts</em> von Nicole Wagner</p>
+
+<p>Janosch ist Kinderbuchillustrator, Autor von Erwachsenenbüchern und freischaffender Künstler. Liebe in all ihren Facetten, so die Grundthese, nimmt in seinem Œvre eine zentrale Stellung ein: vom Loblied auf die Freundschaft bis hin zum Wunschbild eines Arkadiens der Selbstverwirklichung und der Liebesfreiheit. In latenter Lüsternheit im Spannungsfeld von Verniedlichung und Bestialität offenbart er ein ganzes Bündel an Sehnsüchten, die als kollektives Gedächtnis aller Männerfantasien erhältlich sind.<br />
+Diese Arbeit untersucht <em>Janoschs</em> disparates Bild von Liebe und deutet es gleichsam als Spiegel und als ironische Brechung des abendländischen Liebesdiskurses.</p>
+
+<p>Betreuerin: Renate Vergeiner</p>
+
+<p>Die Arbeit zum Nachlesen finden Sie im <a href="http://phaidra.bibliothek.uni-ak.ac.at/o:35230">Repositorium der Angewandten</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[
+
+<p><em>Eine Untersuchung über Ausdrucksformen der Liebe<br />
+in Illustrationen zu den Kinder- und den Erwachsenenbüchern Horst Eckerts</em> von Nicole Wagner</p>
+
+<p>Janosch ist Kinderbuchillustrator, Autor von Erwachsenenbüchern und freischaffender Künstler. Liebe in all ihren Facetten, so die Grundthese, nimmt in seinem Œvre eine zentrale Stellung ein: vom Loblied auf die Freundschaft bis hin zum Wunschbild eines Arkadiens der Selbstverwirklichung und der Liebesfreiheit. In latenter Lüsternheit im Spannungsfeld von Verniedlichung und Bestialität offenbart er ein ganzes Bündel an Sehnsüchten, die als kollektives Gedächtnis aller Männerfantasien erhältlich sind.<br />
+Diese Arbeit untersucht <em>Janoschs</em> disparates Bild von Liebe und deutet es gleichsam als Spiegel und als ironische Brechung des abendländischen Liebesdiskurses.</p>
+
+<p>Betreuerin: Renate Vergeiner</p>
+
+<p>Die Arbeit zum Nachlesen finden Sie im <a href="http://phaidra.bibliothek.uni-ak.ac.at/o:35230">Repositorium der Angewandten</a>.</p>
+]]></content:encoded>
+            <enclosure url="https://channel-clayton.uni-ak.ac.at/podcast/episodes/episode01.mp3" 
+                         length="1234567" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Janosch und die Liebe - Nicole Wagner</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Institut für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:11:26</itunes:duration>
+            </item></channel>
+</rss>

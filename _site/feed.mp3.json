@@ -1,0 +1,31 @@
+{"version": "https://jsonfeed.org/version/1",
+ "title": "Channel Clayton—Mithören",
+ "home_page_url": "https://channel-clayton.uni-ak.ac.at/podcast/",
+ "feed_url": "https://channel-clayton.uni-ak.ac.at/podcast/feed.json",
+ "description": "Channel Clayton stellt heuer aufs Mithören um: In verschiedenen Episoden des Podcasts berichten Autor*innen über die Thesen und die Ergebnisse ihrer wissenschaftlichen Abschlussarbeiten, vorwiegend des Instituts für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung.",
+ "user_comment": "Channel Clayton stellt heuer aufs Mithören um: In verschiedenen Episoden des Podcasts berichten Autor*innen über die Thesen und die Ergebnisse ihrer wissenschaftlichen Abschlussarbeiten, vorwiegend des Instituts für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung.",
+ "icon": "https://channel-clayton.uni-ak.ac.at/podcast/apple-touch-icon-precomposed.png",
+ "favicon": "https://channel-clayton.uni-ak.ac.at/podcast/favicon.ico",
+ "expired": false,
+ "author": {
+   "name": "Instituts für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",
+   "url": "https://channel-clayton.uni-ak.ac.at/"
+ },
+ "items": [
+   {"id": "f83fa613",
+    "title": "Episode 01",
+    "summary": "",
+    "content_text": "Eine Untersuchung über Ausdrucksformen der Liebein Illustrationen zu den Kinder- und den Erwachsenenbüchern Horst Eckerts von Nicole WagnerJanosch ist Kinderbuchillustrator, Autor von Erwachsenenbüchern und freischaffender Künstler. Liebe in all ihren Facetten, so die Grundthese, nimmt in seinem Œvre eine zentrale Stellung ein: vom Loblied auf die Freundschaft bis hin zum Wunschbild eines Arkadiens der Selbstverwirklichung und der Liebesfreiheit. In latenter Lüsternheit im Spannungsfeld von Verniedlichung und Bestialität offenbart er ein ganzes Bündel an Sehnsüchten, die als kollektives Gedächtnis aller Männerfantasien erhältlich sind.Diese Arbeit untersucht Janoschs disparates Bild von Liebe und deutet es gleichsam als Spiegel und als ironische Brechung des abendländischen Liebesdiskurses.Betreuerin: Renate VergeinerDie Arbeit zum Nachlesen finden Sie im Repositorium der Angewandten.",
+    "content_html": "<script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://channel-clayton.uni-ak.ac.at/podcast/episodes/episode01.mp3\",\"ogg\":\"https://channel-clayton.uni-ak.ac.at/podcast/episodes/episode01.ogg\",\"m4a\":\"https://channel-clayton.uni-ak.ac.at/podcast/episodes/episode01.m4a\"},\"coverUrl\":\"https://channel-clayton.uni-ak.ac.at/podcast/img/logo-360x360.png\",\"title\":\"Episode 01\",\"subtitle\":\"Janosch und die Liebe - Nicole Wagner\",\"url\":\"https://channel-clayton.uni-ak.ac.at/podcast/2020/06/12/episode01.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://channel-clayton.uni-ak.ac.at/podcast/podigee-player/javascripts/podigee-podcast-player.js\"></script><p><em>Eine Untersuchung über Ausdrucksformen der Liebe<br />in Illustrationen zu den Kinder- und den Erwachsenenbüchern Horst Eckerts</em> von Nicole Wagner</p><p>Janosch ist Kinderbuchillustrator, Autor von Erwachsenenbüchern und freischaffender Künstler. Liebe in all ihren Facetten, so die Grundthese, nimmt in seinem Œvre eine zentrale Stellung ein: vom Loblied auf die Freundschaft bis hin zum Wunschbild eines Arkadiens der Selbstverwirklichung und der Liebesfreiheit. In latenter Lüsternheit im Spannungsfeld von Verniedlichung und Bestialität offenbart er ein ganzes Bündel an Sehnsüchten, die als kollektives Gedächtnis aller Männerfantasien erhältlich sind.<br />Diese Arbeit untersucht <em>Janoschs</em> disparates Bild von Liebe und deutet es gleichsam als Spiegel und als ironische Brechung des abendländischen Liebesdiskurses.</p><p>Betreuerin: Renate Vergeiner</p><p>Die Arbeit zum Nachlesen finden Sie im <a href=\"http://phaidra.bibliothek.uni-ak.ac.at/o:35230\">Repositorium der Angewandten</a>.</p>",
+    "url": "https://channel-clayton.uni-ak.ac.at/podcast/2020/06/12/episode01.html",
+    "attachments": [
+      {"url": "https://channel-clayton.uni-ak.ac.at/podcast/episodes/episode01.mp3",
+       "mime_type": "audio/mpeg","size_in_bytes": "1234567"}
+    ],
+    "date_published": "2020-06-12T00:00:00+02:00",
+    "date_modified": "2020-06-12T00:00:00+02:00",
+    "author": {
+      "name": "Institut für Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung"
+    }
+  }]
+}
