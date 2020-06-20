@@ -1,0 +1,43 @@
+for i in {01..14}
+do
+   echo "Create episode $i: "
+   file="2020-06-19-episode$i.md"
+   cmd="cp 2020-07-22-episode00.md $file"
+   eval $cmd
+   cmd="rpl 00 $i $file"
+   echo $cmd
+   eval $cmd
+
+done
+
+
+in episodes:
+
+for i in {01..14}
+do
+   echo "Create episode $i: "
+   file="2020-06-19-episode$i.m"
+   cp episode00.mp3 episode$i.mp3
+   cp episode00.m4a episode$i.m4a
+   cp episode00.ogg episode$i.ogg
+done
+
+
+make files:
+
+for i in `ls *.wav`  
+do
+   echo $i 
+
+   cmd="ffmpeg -i $i ${i%.*}.mp3"
+   echo $cmd
+   eval $cmd 
+
+   cmd="ffmpeg -i $i ${i%.*}.m4a"
+   echo $cmd
+   eval $cmd 
+
+   cmd="ffmpeg -i $i ${i%.*}.ogg"
+   echo $cmd
+   eval $cmd 
+done
