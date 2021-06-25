@@ -2,3 +2,6 @@
 .jekyll-cache
 .jekyll-metadata
 vendor
+*.mp3
+*.ogg
+*.m4a
